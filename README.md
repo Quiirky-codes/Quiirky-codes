@@ -1,4 +1,4 @@
-# 👻 About Me:
+# 👻 Hi! This is Amith:
 <br>Welcome to my GitHub profile! I'm a passionate developer interested in web development, machine learning, computer vision, and deep learning. I love exploring new technologies and applying them to solve real-world problems.<br><br><br>🚀 About Me<br><br>- 🌱 I’m currently working on enhancing my skills in Web Development and Machine Learning.<br>- 🤖 I have a growing interest in Computer Vision and Deep Learning.<br>- 💼 Open to collaborating on exciting projects and innovative ideas.
 
 ###
