@@ -1,17 +1,17 @@
-# 👻 Hi! This is Amith:
+# 👻 Hi! This is Amith
 <br>Welcome to my GitHub profile! I'm a passionate developer interested in web development, machine learning, computer vision, and deep learning. I love exploring new technologies and applying them to solve real-world problems.<br>
- # 🚀About Me
- - 🌱 I’m currently working on enhancing my skills in Web Development and Machine Learning.<br>
- - 🤖 I have a growing interest in Computer Vision and Deep Learning.<br>
- - 💼 Open to collaborating on exciting projects and innovative ideas.
+ # About Me
+ - I’m currently working on enhancing my skills in Web Development and Machine Learning.<br>
+ - I have a growing interest in Computer Vision and Deep Learning.<br>
+ - Open to collaborating on exciting projects and innovative ideas.
 
 
-# 🌐 Socials:
+# Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amithh.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithmjain007/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amithh02) 
 
 
-# 💻Tech Stack:
+# Tech Stack
 
 <br clear="both">
 
@@ -78,7 +78,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats
 <br clear="both">
 
 <div align="center">
@@ -88,12 +88,12 @@
 </div>
 
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Quiirky-codes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 😂 Random Dev Meme
+# Random Dev Meme
 
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
