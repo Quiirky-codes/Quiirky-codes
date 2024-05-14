@@ -4,12 +4,13 @@
 
 ###
 
- # 🚀About Me<br><br>- 🌱 I’m currently working on enhancing my skills in **Web Development** and **Machine Learning**.<br>- 🤖 I have a growing interest in **Computer Vision** and **Deep Learning**.<br>- 💼 Open to collaborating on exciting projects and innovative ideas.</p>
+<p align="left">
+ <br><br>🚀 About Me<br><br>- 🌱 I’m currently working on enhancing my skills in Web Development and Machine Learning.<br>- 🤖 I have a growing interest in Computer Vision and Deep Learning.<br>- 💼 Open to collaborating on exciting projects and innovative ideas.</p>
 
 ###
 
 <br clear="both">
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
