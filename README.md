@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🚀 # About Me<br><br>- 🌱 I’m currently working on enhancing my skills in **Web Development** and **Machine Learning**.<br>- 🤖 I have a growing interest in **Computer Vision** and **Deep Learning**.<br>- 💼 Open to collaborating on exciting projects and innovative ideas.</p>
+ # 🚀About Me<br><br>- 🌱 I’m currently working on enhancing my skills in **Web Development** and **Machine Learning**.<br>- 🤖 I have a growing interest in **Computer Vision** and **Deep Learning**.<br>- 💼 Open to collaborating on exciting projects and innovative ideas.</p>
 
 ###
 
