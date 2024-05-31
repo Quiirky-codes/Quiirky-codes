@@ -8,7 +8,7 @@
 
 # 🌐Socials
 <a href="https://linkedin.com/in/amithmjain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithmjain007" height="30" width="40" /></a>
-<a href="https://twitter.com/amithh02" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Ftwitter-x-icon-logo-vector-59294.html&psig=AOvVaw1DBaa7zxJY-_GbEuikOjkz&ust=1717230493029000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLithMW8t4YDFQAAAAAdAAAAABAE" alt="amithh02" height="30" width="40" /></a>
+<a href="https://twitter.com/amithh02" target="blank"><img align="center" src="" alt="amithh02" height="30" width="40" /></a>
 <a href="https://instagram.com/amithh.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amithh.02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quiirky_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quiirky.codes" height="30" width="40" /></a>
 
