@@ -108,11 +108,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Quiirky-codes&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-
-# 😂Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 [![](https://visitcount.itsvg.in/api?id=Quiirky-codes&icon=7&color=12)](https://visitcount.itsvg.in)
 
 
