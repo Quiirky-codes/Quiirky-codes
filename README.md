@@ -95,13 +95,14 @@
 
 
 # 📈GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quiirky-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" width="400" height="200" alt="stats graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quiirky-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&card_width=400" alt="stats graph" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Quiirky-codes&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" width="400" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Quiirky-codes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="streak graph" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quiirky-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" width="400" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quiirky-codes&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="languages graph" />
 </div>
+
 
 
 # 🏆GitHub Trophies
