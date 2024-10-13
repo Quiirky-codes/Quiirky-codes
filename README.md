@@ -95,15 +95,13 @@
 
 
 # 📈GitHub Stats
-<br clear="both">
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quiirky-codes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph" />
+  <br>
   <img src="https://streak-stats.demolab.com?user=Quiirky-codes&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quiirky-codes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph" />
 </div>
-
-
 
 # 🏆GitHub Trophies
 
