@@ -95,7 +95,7 @@
 
 
 # 📈GitHub Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Quiirky-codes&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&card_width=400" alt="stats graph" />
   <br>
   <img src="https://streak-stats.demolab.com?user=Quiirky-codes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="streak graph" />
