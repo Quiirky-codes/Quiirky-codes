@@ -1,19 +1,19 @@
 # 👻 Hi! This is Amith
 <br>Welcome to my GitHub profile! I'm a passionate developer interested in web development, machine learning, computer vision, and deep learning. I love exploring new technologies and applying them to solve real-world problems.<br>
-# 🚀About Me
+# 🚀 About Me
  - I’m currently working on enhancing my skills in Web Development and Machine Learning.🌱<br>
  - I have a growing interest in Computer Vision and Deep Learning.🤖<br>
  - Open to collaborating on exciting projects and innovative ideas.💼
 
 
-# 🌐Socials
+# 🌐 Socials
 <a href="https://linkedin.com/in/amithmjain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithmjain007" height="30" width="40" /></a>
 <a href="https://twitter.com/amithh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amithh02" height="30" width="40" /></a>
 <a href="https://instagram.com/amithh.02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amithh.02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quiirky_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="quiirky.codes" height="30" width="40" /></a>
 
 
-# 🖥️Tech Stack
+# 🖥️ Tech Stack
 
 <br clear="both">
 
